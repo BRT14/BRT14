@@ -3,9 +3,9 @@
 <--
 
 ## 17 anos, cursando Dev de Sistemas no Senai Vila Mariana
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Dev Iniciante</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
