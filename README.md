@@ -1,8 +1,12 @@
-## Olá, me chamo Pedro Henrique, sou um desenvolvedor fullstack, disciplinado e sempre focado no meu objetivo como Dev, aqui mostrarei meus projetos e dentre outras criações👋
+## Olá, me chamo Pedro Henrique, sou um desenvolvedor fullstack, disciplinado e sempre focado no meu objetivo como Dev, aqui mostrarei meus projetos e dentre outras criações, curso Des. de Sistemas no Senai da Vila Mariana, no ultimo ano de curso técnico👋
 
-<--
 
-## 17 anos, cursando Dev de Sistemas no Senai Vila Mariana
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 17 anos 
+<ul>
+  <li> São Paulo - Sp</li>
+  <li> Procurando emprego especializado da minha área, mais focado em FrontEnd</li>
+  <li> Disciplinado e Empenhado</li>
 <h3 align="center">Dev Iniciante</h3>
 
 <h3 align="left"></h3>
